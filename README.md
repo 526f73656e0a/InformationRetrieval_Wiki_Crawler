@@ -14,11 +14,13 @@
 ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠋⠉⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
 ******************************************************************************************************************
 
--------------------------------------How to use ~~~ download.py ~~~--------------------------------------------------- 
+------------------------------------- How to use  download.py --------------------------------------------------- 
 
 Download the files in a folder of your choosing
 Run python -m pip install -r requirements.txt to install needed lib 
 Run python download.py
+
+Python version 3.7 or higher
 
 -----------------By default it fetches 1000 Articles ----------------------------------
 
