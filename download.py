@@ -19,8 +19,7 @@ endingtopic = 15502744
 startdocs = 2000
 iterator = 0
 random.seed(159234)
-num_value=np.random.randint(startingtopic, endingtopic+1,size=startdocs)
-
+num_value=np.random.randint(startingtopic, endingtopic+1,size=endingtopic)
 
 def func(ndocs):
     #create folder Articles in current working directory
