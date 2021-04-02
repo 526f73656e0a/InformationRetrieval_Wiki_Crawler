@@ -31,7 +31,7 @@ A dir Articles is created where download.py is. A new dir for each topic is then
 
 To specify how many documents are generated you need to change startdocs in download.py
 
-Since some of the titles in Wikipedia_topics are changed on Wikipedia it fetches empty txt files. 
+Since some of the titles in Wikipedia_topics are changed it fetches empty txt files. 
 For this reason after reaching startdocs number of dir in Articles it checks for such empty Articles and deletes them, it then fetches a number of new documents the size of the deleted ones 
 
 ******************************************************************************************************************
