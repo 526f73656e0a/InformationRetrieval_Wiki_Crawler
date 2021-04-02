@@ -14,7 +14,7 @@ import numpy as np
 #from which line in the doc do the titles start
 startingtopic = 0
 #on which line the titles end
-endingtopic = 15502744
+endingtopic = 681771
 #how many documents in Articles
 startdocs = 2000
 iterator = 0
